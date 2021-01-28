@@ -3,5 +3,7 @@ b = "este es otro string"
 puts a.length
 puts b.length
 #string de multiples lineas
-c = "esto es un \esto es un string de multiples lineas"
+c = "esto es un esto es un string \n de multiples lineas"
 puts c
+age = 44
+puts "mi edad es #{age}" 
